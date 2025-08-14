@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Pamela
-- 👀 I’m interested in Big Data
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Amazing Data Projects
-- 📫 How to reach me pamelakareymi3@gmail.com
-- 😄 Pronouns: She/Her
+- 👀 I’m a Data Analyst
+- 🌱 I’m currently learning Data Science and Engineering
+- 💞️ I’m looking to collaborate or volunteer on Amazing Data Projects
+- 📫 How to reach me: pamelakareymi3@gmail.com
   
 
 <!---
